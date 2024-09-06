@@ -1,1 +1,0 @@
-kubectl get $1 | grep -v kub | awk NR {print } | xargs kubectl delete $1
