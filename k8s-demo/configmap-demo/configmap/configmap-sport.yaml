@@ -1,0 +1,10 @@
+apiVersion: v1
+data:
+  sport: cricket
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2024-09-06T10:47:22Z"
+  name: sport
+  namespace: default
+  resourceVersion: "63457"
+  uid: bbe56274-ee1f-4837-8048-9071cbfc6c8d
